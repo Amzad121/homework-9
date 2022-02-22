@@ -1,0 +1,17 @@
+body {
+    background-color: rgb(107, 216, 216)
+}
+h1 {
+    color: brown;
+    text-align: center;
+    margin: auto;
+}
+p { 
+    color: rgb(229, 243, 232);
+    text-align: center;
+    font-size:larger;
+}
+h3{
+    text-align: center;
+    color: rgb(5, 5, 43);
+}
